@@ -1,0 +1,22 @@
+########################################################################################
+#                               Wolkenlos - PluginName                                 #
+#                                                                                      #
+#               Version                                     Author                     #
+#               1.0.0                                     AuthorName                   #
+#                                                                                      #
+########################################################################################
+#                                       SETTINGS                                       #
+########################################################################################
+prefix: "<gradient:green:white><bold>PREFIX </bold><gray>| <gray>"
+//TODO: Change prefix
+#Use Adventure color codes for prefix https://docs.advntr.dev/minimessage/format.html#color | https://webui.advntr.dev
+
+
+
+
+########################################################################################
+#                                         Database                                     #
+########################################################################################
+#ONLY NEEDED WHEN SAVE METHOD IS MONGODB
+mongo_uri: "mongodb://localhost:27017/"
+database: "database"

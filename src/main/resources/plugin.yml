@@ -1,0 +1,4 @@
+name: template
+version: '${version}'
+main: eu.wolkenlosmc.template.Template
+api-version: '1.19'
